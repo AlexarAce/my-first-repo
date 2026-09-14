@@ -1,3 +1,5 @@
 The 3rd file for the repo
 
 Updated on September 14th
+-Checked git status (command prgram)
+-changed from vs Code
